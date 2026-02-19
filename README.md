@@ -33,3 +33,5 @@ Despite the **0.17% minority class**, the combination of:
 - Gradient boosting models
 
 achieved strong minority class detection while maintaining controlled precision.
+
+💡 This approach is suitable for fraud detection, anomaly detection, and other rare-event prediction problems.
