@@ -64,7 +64,7 @@ This design mimics production fraud systems where decision thresholds are busine
 
 #### 🚀 Models
 
-Hyperparameter tuning is performed using **Optuna (TPE sampler, 8 trials per model).***
+Hyperparameter tuning is performed using **Optuna (TPE sampler, 8 trials per model).**
 
 #### 🔵 XGBoost
 
